@@ -1,2 +1,2 @@
 ## Notice
-This project is deployed for ghstatic.muzzink.cn (privately use).
+This project is deployed for edgecdn.static.muzzink.cn (privately use).
